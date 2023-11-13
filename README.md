@@ -1,7 +1,5 @@
 # Implementasi-Affine-Cipher-PY
-
-''' 
-
+```
 import math
 
 def encryption():
@@ -145,7 +143,7 @@ main();
 
 #test = input("Here: ");
 #Test if it prints out Exit at end. If it is run normally, it will not, only in shell.
-'''
+```
 
 Hasil Output
 
